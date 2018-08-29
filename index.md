@@ -9,6 +9,6 @@ My current research is on decoding tumor phenotype with Radiomics approach such 
 _Department of Radiation Physics_ <br>
 <button name="button"><a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/court-laboratory/lab-members.html"> Court Lab </a>
   
-![alt text](https://skylinegrid.com/img/static/www1.png/ "Title") <br>
 
-<img src="https://skylinegrid.com/img/static/www1.png" alt="alt text" title="Title" />
+### Machine Learning
+<img src="http://vcipl-okstate.org/research_images/GMM_EM.gif" alt="alt text" title="Title" />
