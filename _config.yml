@@ -1,6 +1,2 @@
 theme: jekyll-theme-architect
 title: aznets
-
-.title {
-  font-size: 28rem;
-}
