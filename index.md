@@ -16,14 +16,16 @@ _Department of Radiation Physics_ <br>
 <br><center> <img src="https://www.uruit.com/blog/wp-content/uploads/2018/02/Diagram-1-1024x435.png" alt="alt text" title="Title" /> </center>
 
 <br>
-## How Machine Learning Works
+### How Machine Learning Works
 Machine learning uses two types of techniques: supervised learning, which trains a model on known input and output data so that it can predict future outputs, and unsupervised learning, which finds hidden patterns or intrinsic structures in input data.
 
 <br><center><img src="https://www.mathworks.com/content/mathworks/www/en/discovery/machine-learning/jcr:content/mainParsys3/discoverysubsection_1965078453/mainParsys3/image_2128876021_cop.adapt.full.high.svg/1531721829647.svg" alt="alt text" title="Title" /> </center> <br>
 
 <center> Figure 1. Machine learning techniques include both unsupervised and supervised learning.</center><br>
 
-**Supervised Learning**
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
+### Supervised Learning
 Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty. A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data. Use supervised learning if you have known data for the output you are trying to predict.
 
 Supervised learning uses classification and regression techniques to develop predictive models.
@@ -40,7 +42,7 @@ Use regression techniques if you are working with a data range or if the nature 
 
 Common regression algorithms include linear model, nonlinear model, regularization, stepwise regression, boosted and bagged decision trees, neural networks, and adaptive neuro-fuzzy learning.
 
-**Unsupervised Learning**
+### Unsupervised Learning
 Unsupervised learning finds hidden patterns or intrinsic structures in data. It is used to draw inferences from datasets consisting of input data without labeled responses.
 
 **Clustering** is the most common unsupervised learning technique. It is used for exploratory data analysis to find hidden patterns or groupings in data. Applications for cluster analysis include gene sequence analysis, market research, and object recognition.
