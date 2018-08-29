@@ -25,7 +25,6 @@ Machine learning uses two types of techniques: supervised learning, which trains
 
 <span style="color:blue">some blue text</span>
 
-### <span style="color:blue"> <b> Supervised Learning </b> </span>
 ### <span style="color:blue"> Supervised Learning  </span>
 Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty. A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data. Use supervised learning if you have known data for the output you are trying to predict.
 
@@ -43,7 +42,8 @@ Use regression techniques if you are working with a data range or if the nature 
 
 Common regression algorithms include linear model, nonlinear model, regularization, stepwise regression, boosted and bagged decision trees, neural networks, and adaptive neuro-fuzzy learning.
 
-### Unsupervised Learning
+
+### <span style="color:blue"> Unsupervised Learning  </span>
 Unsupervised learning finds hidden patterns or intrinsic structures in data. It is used to draw inferences from datasets consisting of input data without labeled responses.
 
 **Clustering** is the most common unsupervised learning technique. It is used for exploratory data analysis to find hidden patterns or groupings in data. Applications for cluster analysis include gene sequence analysis, market research, and object recognition.
