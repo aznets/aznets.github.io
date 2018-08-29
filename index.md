@@ -23,9 +23,10 @@ Machine learning uses two types of techniques: supervised learning, which trains
 
 <center> Figure 1. Machine learning techniques include both unsupervised and supervised learning.</center><br>
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+<span style="color:blue">some blue text</span>
 
-### Supervised Learning
+### <span style="color:blue"> <b> Supervised Learning </b> </span>
+### <span style="color:blue"> Supervised Learning  </span>
 Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty. A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data. Use supervised learning if you have known data for the output you are trying to predict.
 
 Supervised learning uses classification and regression techniques to develop predictive models.
