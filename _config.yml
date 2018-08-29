@@ -1,2 +1,5 @@
 theme: jekyll-theme-architect
+h1 {
+      font-size: 28px;
+}
 title: Welcom to My Homepage
