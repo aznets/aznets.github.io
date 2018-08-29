@@ -7,7 +7,10 @@ My current research is on decoding tumor phenotype with Radiomics approach such 
 
 Search:
 <button name="button" onclick="https://www.google.com">Click me</button> 
-<button name="button"><a href="https://google.com" class="button">Click me
+<button name="button"><a href="https://google.com" class="button">Click me </a>
 <button name="button"><href="https://google.com" class="button">Click me
+
+hidden: <a href="https://google.com" class="button">Click me </a>
+
 <button name="button" href="https://google.com" class="button">Click me
 <button name="button" href="https://google.com">Click me
