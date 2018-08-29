@@ -11,4 +11,4 @@ _Department of Radiation Physics_ <br>
   
 
 ### Machine Learning
-<img src="http://vcipl-okstate.org/research_images/GMM_EM.gif" alt="alt text" title="Title" />
+<img src="https://www.uruit.com/blog/wp-content/uploads/2018/02/Diagram-1-1024x435.png" alt="alt text" title="Title" />
