@@ -8,8 +8,7 @@ My current research is on decoding tumor phenotype with Radiomics approach such 
 **M.D. Anderson Cancer Center** <br>
 _Department of Radiation Physics_ <br>
 <button name="button"><a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/court-laboratory/lab-members.html"> Court Lab </a>
-<br>
-<br>
+
 
 ## Research Interest
 ### Machine Learning
