@@ -7,6 +7,5 @@ My current research is on decoding tumor phenotype with Radiomics approach such 
 
 Search:
 <button name="button" onclick="https://www.google.com">Click me</button> 
-<button name="button"><a href="https://google.com" class="button">Click me</button> 
+<button name="button"><a href="https://google.com" class="button">Click me
 
- {% include button.html button_name="My1 Button" button_class="outline-primary" url="google.com"; %}
