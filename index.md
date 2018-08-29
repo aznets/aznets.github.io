@@ -6,13 +6,5 @@ I received his Ph.D. in the Physics and Astronomy department at the University o
 My current research is on decoding tumor phenotype with Radiomics approach such as the extraction and analysis of advanced quantitative imaging features obtained from CT, PET or MRI. I am currently funded by the Center for Radiation Oncology (CROR) to provide radiomics research support to researchers throughout the institution.
 
 Search:
-<button name="button" onclick="https://www.google.com">Click me</button> 
-<button name="button"><a href="https://google.com" class="button">Click me </a>
-<button name="button"><href="https://google.com" class="button">Click me
+<button name="button"><a href="https://google.com">Click me </a>
 
-hidden: <a href="https://google.com" class="button">Click me </a>
-
-test <button name="button" a href="https://google.com" class="button">Click me
-  
-<button name="button" href="https://google.com">Click me
-test: <button name="button" a href="https://google.com">Click me </a>
