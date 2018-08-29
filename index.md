@@ -9,3 +9,4 @@ Search:
 <button name="button" onclick="https://www.google.com">Click me</button> 
 <button name="button"><a href="https://google.com" class="button">Click me</button> 
 
+ {% include button.html button_name="My1 Button" button_class="outline-primary" url="google.com"; %}
