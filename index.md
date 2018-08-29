@@ -5,6 +5,7 @@ I received his Ph.D. in the Physics and Astronomy department at the University o
 
 My current research is on decoding tumor phenotype with Radiomics approach such as the extraction and analysis of advanced quantitative imaging features obtained from CT, PET or MRI. I am currently funded by the Center for Radiation Oncology (CROR) to provide radiomics research support to researchers throughout the institution.
 
-Search:
-<button name="button"><a href="https://google.com">Click me </a>
+M.D. Anderson Cancer Center
+Department of Radiation Physics
+<button name="button"><a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/court-laboratory/lab-members.html"> Court Lab </a>
 
