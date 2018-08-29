@@ -19,7 +19,7 @@ _Department of Radiation Physics_ <br>
 ## How Machine Learning Works
 Machine learning uses two types of techniques: supervised learning, which trains a model on known input and output data so that it can predict future outputs, and unsupervised learning, which finds hidden patterns or intrinsic structures in input data.
 
-<center><img src="https://www.mathworks.com/content/mathworks/www/en/discovery/machine-learning/jcr:content/mainParsys3/discoverysubsection_1965078453/mainParsys3/image_2128876021_cop.adapt.full.high.svg/1531721829647.svg" alt="alt text" title="Title" /> <center> <br>
+<center><img src="https://www.mathworks.com/content/mathworks/www/en/discovery/machine-learning/jcr:content/mainParsys3/discoverysubsection_1965078453/mainParsys3/image_2128876021_cop.adapt.full.high.svg/1531721829647.svg" alt="alt text" title="Title" /> </center> <br>
 
 <center> Figure 1. Machine learning techniques include both unsupervised and supervised learning.</center><br>
 
