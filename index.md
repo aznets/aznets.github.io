@@ -7,7 +7,6 @@ My current research is on decoding tumor phenotype with Radiomics approach such 
 
 Search:
 <button name="button" onclick="https://www.google.com">Click me</button> 
-<button name="button" onclick="https://www.google.com">Click me</button> 
+<button name="button">Click me</button> 
 
-import GitHubButton from 'github-buttons/dist/react';
-var githubButton = <GitHubButton {...props}></GitHubButton>;
+
