@@ -10,3 +10,4 @@ Search:
 <button name="button">Click me[](https://www.google.com)</button> 
 
 
+<a href="https://google.com" class="button">
