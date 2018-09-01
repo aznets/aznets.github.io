@@ -15,7 +15,7 @@ _Department of Radiation Physics_ <br>
 ---
 <br>
 ## <span style="color:orange"> Research Interest </span>
-<ul class="fa-ul mb-0">
+
   <li>
     <i class="fa-li fa fa-minus"></i>
     <b> Machine Learning </b>
@@ -31,4 +31,4 @@ _Department of Radiation Physics_ <br>
   <li>
     <i class="fa-li fa fa-minus"></i>
     <b> Clinical Research & Application </b>
-</ul>
+
