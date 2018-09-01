@@ -30,10 +30,8 @@ _Department of Radiation Physics_ <br>
     <b> Big Data, Data mining </b>
   <li>
     <i class="fa-li fa fa-minus"></i>
-    <b> Clinical Research & Application </b>
+    <b> Clinical Research & Application </b> </li>
 <br>
 
 ---
 
-**by aznets** <br>
-<br>
