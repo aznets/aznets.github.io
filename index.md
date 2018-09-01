@@ -16,21 +16,11 @@ _Department of Radiation Physics_ <br>
 
 ## <span style="color:orange"> Research Interest </span>
 
-  <li>
-    <i class="fa-li fa fa-minus"></i>
-    <b> Machine Learning </b>
-  <li>
-    <i class="fa-li fa fa-minus"></i>
-    <b> Deep Learning </b>
-  <li>
-    <i class="fa-li fa fa-minus"></i>
-    <b> Radiomics & multi 'omics' </b>
-  <li>
-    <i class="fa-li fa fa-minus"></i>
-    <b> Big Data, Data mining </b>
-  <li>
-    <i class="fa-li fa fa-minus"></i>
-    <b> Clinical Research & Application </b> </li>
+*  <b> Machine Learning </b>
+*  <b> Deep Learning </b>
+*  <b> Radiomics & multi 'omics' </b>
+*  <b> Big Data, Data mining </b>
+*  <b> Clinical Research & Application </b>
 <br>
 
 ---
