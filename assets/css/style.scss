@@ -1,27 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-body {
-  padding-top: 54px;
-}
-
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
-}
-
-.business-header {
-  height: 50vh;
-  min-height: 300px;
-  background: url('http://zettagates.com/wp-content/uploads/2018/08/Pencile_1.jpeg') center center no-repeat scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-
-.card {
-  height: 100%;
-}
+@import 'jekyll-theme-architect';

@@ -1,7 +1,5 @@
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-architect
-title: aznets
-show_downloads: "true"
-
-# plugins:
-#   - jekyll-remote-theme
-# remote_theme: benbalter/retlab
