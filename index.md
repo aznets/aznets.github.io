@@ -14,7 +14,7 @@ _Department of Radiation Physics_ <br>
 
 ---
 <br>
-## Research Interest
+## <span style="color:orange"> Research Interest </span>
 <ul class="fa-ul mb-0">
   <li>
     <i class="fa-li fa fa-minus"></i>
@@ -22,8 +22,13 @@ _Department of Radiation Physics_ <br>
   <li>
     <i class="fa-li fa fa-minus"></i>
     <b> Deep Learning </b>
-
-### Radiomics & multi 'omics'
-### Big Data, Data mining
-### Clinical Research & Application
+  <li>
+    <i class="fa-li fa fa-minus"></i>
+    <b> Radiomics & multi 'omics' </b>
+  <li>
+    <i class="fa-li fa fa-minus"></i>
+    <b> Big Data, Data mining </b>
+  <li>
+    <i class="fa-li fa fa-minus"></i>
+    <b> Clinical Research & Application </b>
 </ul>
