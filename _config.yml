@@ -1,7 +1,8 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: aznets
+description: Just another cool site
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 github:
   ml_url: https://aznets.github.io/ml/
+  dl_url: https://aznets.github.io/dl/
