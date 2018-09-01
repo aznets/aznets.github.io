@@ -1,5 +1,6 @@
 theme: jekyll-theme-architect
 title: aznets
+show_downloads: "true"
 
 # plugins:
 #   - jekyll-remote-theme
