@@ -22,6 +22,7 @@ _Computational Medicine and Bioinformatics_ <br>
 *  <b> Radiomics & multi 'omics' </b>
 *  <b> Big Data, Data mining </b>
 *  <b> Clinical Research & Application </b>
+*  <b> Digital Pathology and Radiology data </b>
 <br>
 
 ---
