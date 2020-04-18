@@ -3,7 +3,7 @@
 <br> <img src="https://www.mdanderson.org/content/mda/en/research/departments-labs-institutes/labs/court-laboratory/lab-members/jcr:content/mainparsys/columns/column1/textimage_924724179.resize.jpg/1522770082405.jpg" alt="alt text" title="Title"  height="160" width="160" />
 -->
 
-### Joonsang Lee, Ph.D. 
+### J. Lee, Ph.D. 
 <button name="button"><a href="https://aznets.github.io/jsleexxxxx/"> CV </a> <br>
 
 I am a research specialist in the Department of Computational Medicine and Bioinformatics at the University of Michigan.
